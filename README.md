@@ -1,1 +1,0 @@
-# my_distributed_cache
